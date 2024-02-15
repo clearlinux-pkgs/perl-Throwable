@@ -1,0 +1,8 @@
+1.001
+perl(Class::Method::Modifiers)
+perl(Devel::StackTrace)
+perl(Module::Runtime)
+perl(Moo)
+perl(Moo::Role)
+perl(Role::Tiny)
+perl(Sub::Quote)
