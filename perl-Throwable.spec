@@ -7,7 +7,7 @@
 #
 Name     : perl-Throwable
 Version  : 1.001
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Throwable-1.001.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Throwable-1.001.tar.gz
 Summary  : 'a role for classes that can be thrown'
